@@ -35,6 +35,13 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.sharique1006.vercel.app/api?username=sharique1006&show_icons=true&hide_border=true" />
+
+</details>
+
 [twitter]: https://twitter.com/_sharique_s
 [instagram]: https://www.instagram.com/_sharique_shamim/
 [linkedin]: https://www.linkedin.com/in/sharique-shamim-963b65193/
