@@ -14,8 +14,8 @@
 - 🎓 Secured International Rank 53 in [International Mathematics Olympiad](https://sofworld.org/imo), 2016.
 
 ### Work Experience
-- 💻 I interned at [Piramal Capital Housing & Finance, Mumbai, India](https://www.piramalfinance.com/) in the Summer of 2021
-- 💻 I interned at [Internext Engineering Solutions Pvt. Ltd., Hyderabad, India](https://internextengineering.com/) in the Summer of 2020
+- 💻 Data Science Intern at [Piramal Capital Housing & Finance, Mumbai, India](https://www.piramalfinance.com/) (May 2021 - July 2021)
+- 💻 Software Engineer Intern at [Internext Engineering Solutions Pvt. Ltd., Hyderabad, India](https://internextengineering.com/) (July 2021 - September 2021)
 
 ### Areas of Interest
 - Machine Learning, Deep Learning, Artificial Intelligence, Software Engineering
