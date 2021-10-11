@@ -35,10 +35,12 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+<br/>
+
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.sharique1006.vercel.app/api?username=sharique1006&show_icons=true&hide_border=true" />
+  <img align="left" alt="Sharique's GitHub Stats" src="https://github-readme-stats.sharique1006.vercel.app/api?username=sharique1006&show_icons=true&hide_border=true" />
 
 </details>
 
