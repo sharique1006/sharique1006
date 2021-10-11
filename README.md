@@ -1,12 +1,14 @@
 ### Hi there, I'm Sharique 👋
 
-### About Me
-- 🎓 I'm a final year undergraduate majoring in Computer Science & Engineering at [IIT Delhi](https://home.iitd.ac.in)
+### Education
+- 🎓 [Inidan Institute of Technology, Delhi](https://home.iitd.ac.in) - Bachelors of Technology, Computer Science & Engineering (2022)
+- 🎓 [The Aryan International School, Varanasi](http://thearyaninternationalschool.com/) - All India Senior School Certificate Examination, CBSE (2018)
+- 🎓 [Delhi Public School, Varanasi](http://dpsvaranasi.com/) - All India Secondary School Certificate Examination, CBSE (2018)
 
 ### Achievements
 - 🎓 Secured All India Rank 40 in [Jee Advanced](https://jeeadv.ac.in/), 2018.
 - 🎓 Secured All India Rank 78 in [Jee Mains](https://jeemain.nta.nic.in/webinfo2021/Page/Page?PageId=1&LangId=P), 2018.
-- 🎓 Shorlisted for [The Aditya Birla Scholarship](https://www.adityabirla.com/) in 2018 among students from all IITs.
+- 🎓 Shortlisted for [The Aditya Birla Scholarship](https://www.adityabirla.com/) in 2018 among students from all IITs.
 - 🎓 Cleared [Kishore Vaigyanik Protsahan Yojana](http://www.kvpy.iisc.ernet.in/main/index.htm) in 2018.
 - 🎓 Cleared [National Talent Search Examination](https://ncert.nic.in/national-talent-examination.php) in 2016.
 - 🎓 Secured International Rank 53 in [International Mathematics Olympiad](https://sofworld.org/imo), 2016.
