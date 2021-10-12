@@ -15,7 +15,7 @@
 
 ### Work Experience
 - 💻 Data Science Intern at [Piramal Capital Housing & Finance, Mumbai, India](https://www.piramalfinance.com/) (May 2021 - July 2021)
-- 💻 Software Engineer Intern at [Internext Engineering Solutions Pvt. Ltd., Hyderabad, India](https://internextengineering.com/) (July 2021 - September 2021)
+- 💻 Software Engineer Intern at [Internext Engineering Solutions Pvt. Ltd., Hyderabad, India](https://internextengineering.com/) (July 2020 - September 2020)
 
 ### Areas of Interest
 - Machine Learning, Deep Learning, Artificial Intelligence, Software Engineering
