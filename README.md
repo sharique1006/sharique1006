@@ -7,7 +7,7 @@
 
 ### Achievements
 - 🎓 Secured All India Rank 40 in [Jee Advanced](https://jeeadv.ac.in/), 2018 & All India Rank 78 in [Jee Mains](https://jeemain.nta.nic.in/webinfo2021/Page/Page?PageId=1&LangId=P), 2018.
-- 🎓 Shortlisted for [The Aditya Birla Scholarship](https://www.adityabirla.com/) in 2018 among students from all IITs.
+- 🎓 One among 35 students shortlisted for [The Aditya Birla Scholarship](https://www.adityabirla.com/), 2018 among students from IITs & IIMs.
 - 🎓 Cleared [Kishore Vaigyanik Protsahan Yojana](http://www.kvpy.iisc.ernet.in/main/index.htm) in 2018.
 - 🎓 Cleared [National Talent Search Examination](https://ncert.nic.in/national-talent-examination.php) in 2016.
 - 🎓 Secured International Rank 53 in [International Mathematics Olympiad](https://sofworld.org/imo), 2016.
