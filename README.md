@@ -11,7 +11,7 @@
 - 🎓 Cleared [KVPY](http://www.kvpy.iisc.ernet.in/main/index.htm), 2018, [NTSE](https://ncert.nic.in/national-talent-examination.php), 2016 & Secured International Rank 53 in [IMO](https://sofworld.org/imo), 2016.
 
 ### Work Experience
-- 💻 Software Engineer at [Microsoft India Pvt. Ltd.](https://www.microsoft.com/en-us) (Upcoming FTE, June'22)
+- 💻 Software Engineer at [Microsoft India (R&D) Pvt. Ltd.](https://www.microsoft.com/en-us) (Upcoming FTE, June'22)
 
 ### Internships
 - 💻 Data Scientist Intern at [Piramal Capital Housing & Finance, Mumbai, India](https://www.piramalfinance.com/) (May 2021 - July 2021)
