@@ -11,14 +11,15 @@
 - 🎓 Cleared [KVPY](http://www.kvpy.iisc.ernet.in/main/index.htm), 2018, [NTSE](https://ncert.nic.in/national-talent-examination.php), 2016 & Secured International Rank 53 in [IMO](https://sofworld.org/imo), 2016.
 
 ### Work Experience
-- 💻 Software Engineer at [Microsoft India (R&D) Pvt. Ltd.](https://www.microsoft.com/en-us) (Upcoming FTE, June'22)
+- 💻 Software Engineer at [Microsoft India (R&D) Pvt. Ltd.](https://www.linkedin.com/company/microsoft) (Upcoming FTE, June'22)
 
 ### Internships
-- 💻 Data Scientist Intern at [Piramal Capital Housing & Finance, Mumbai, India](https://www.piramalfinance.com/) (May 2021 - July 2021)
-- 💻 Software Engineer Intern at [Internext Engineering Solutions Pvt. Ltd., Hyderabad, India](https://internextengineering.com/) (July 2020 - September 2020)
+- 💻 Applied Scientist Intern at [Amazon, Bangalore, India](https://www.linkedin.com/company/amazon/) (Feb 2022 - June 2022)
+- 💻 Data Scientist Intern at [Piramal Capital Housing & Finance, Mumbai, India](https://www.linkedin.com/company/piramal-capital-&-housing-finance/) (May 2021 - July 2021)
+- 💻 Software Engineer Intern at [Internext Engineering Solutions Pvt. Ltd., Hyderabad, India](https://www.linkedin.com/company/internexteng/) (July 2020 - September 2020)
 
 ### Areas of Interest
-- Machine Learning, Deep Learning, Artificial Intelligence, Software Engineering
+- Machine Learning, Artificial Intelligence, Software Engineering
 
 ### Languages
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" ></code>
