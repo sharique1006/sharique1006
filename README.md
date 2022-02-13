@@ -11,7 +11,7 @@
 - 🎓 Cleared [KVPY](http://www.kvpy.iisc.ernet.in/main/index.htm), 2018, [NTSE](https://ncert.nic.in/national-talent-examination.php), 2016 & Secured International Rank 53 in [IMO](https://sofworld.org/imo), 2016.
 
 ### Work Experience
-- 💻 Software Engineer at [Microsoft India (R&D) Pvt. Ltd.](https://www.linkedin.com/company/microsoft) (Upcoming FTE, June'22)
+- 💻 Software Engineer at [Microsoft India (R&D) Pvt. Ltd.](https://www.linkedin.com/company/microsoft) (Incoming FTE, June'22)
 
 ### Internships
 - 💻 Applied Scientist Intern at [Amazon, Bangalore, India](https://www.linkedin.com/company/amazon/) (Feb 2022 - June 2022)
