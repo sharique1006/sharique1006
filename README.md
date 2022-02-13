@@ -6,17 +6,17 @@
 - All India Secondary School Certificate Examination, CBSE (2016) - [Delhi Public School, Varanasi](http://dpsvaranasi.com/)
 
 ### Achievements
-- 🎓 Secured All India Rank 40 in [Jee Advanced](https://jeeadv.ac.in/), 2018 & All India Rank 78 in [Jee Mains](https://jeemain.nta.nic.in/webinfo2021/Page/Page?PageId=1&LangId=P), 2018.
-- 🎓 One among 35 students shortlisted for [The Aditya Birla Scholarship](https://www.adityabirla.com/), 2018 among students from IITs & IIMs.
-- 🎓 Cleared [KVPY](http://www.kvpy.iisc.ernet.in/main/index.htm), 2018, [NTSE](https://ncert.nic.in/national-talent-examination.php), 2016 & Secured International Rank 53 in [IMO](https://sofworld.org/imo), 2016.
+- Secured All India Rank 40 in [Jee Advanced](https://jeeadv.ac.in/), 2018 & All India Rank 78 in [Jee Mains](https://jeemain.nta.nic.in/webinfo2021/Page/Page?PageId=1&LangId=P), 2018.
+- One among 35 students shortlisted for [The Aditya Birla Scholarship](https://www.adityabirla.com/), 2018 among students from IITs & IIMs.
+- Cleared [KVPY](http://www.kvpy.iisc.ernet.in/main/index.htm), 2018, [NTSE](https://ncert.nic.in/national-talent-examination.php), 2016 & Secured International Rank 53 in [IMO](https://sofworld.org/imo), 2016.
 
 ### Work Experience
-- 💻 Software Engineer at [Microsoft India (R&D) Pvt. Ltd.](https://www.linkedin.com/company/microsoft) (Incoming FTE, June'22)
+- Software Engineer at [Microsoft India (R&D) Pvt. Ltd.](https://www.linkedin.com/company/microsoft) (Incoming FTE, June'22)
 
 ### Internships
-- 💻 Applied Scientist Intern at [Amazon, Bangalore, India](https://www.linkedin.com/company/amazon/) (Feb 2022 - June 2022)
-- 💻 Data Scientist Intern at [Piramal Capital Housing & Finance, Mumbai, India](https://www.linkedin.com/company/piramal-capital-&-housing-finance/) (May 2021 - July 2021)
-- 💻 Software Engineer Intern at [Internext Engineering Solutions Pvt. Ltd., Hyderabad, India](https://www.linkedin.com/company/internexteng/) (July 2020 - Sept 2020)
+- Applied Scientist Intern at [Amazon, Bangalore, India](https://www.linkedin.com/company/amazon/) (Feb 2022 - June 2022)
+- Data Scientist Intern at [Piramal Capital Housing & Finance, Mumbai, India](https://www.linkedin.com/company/piramal-capital-&-housing-finance/) (May 2021 - July 2021)
+- Software Engineer Intern at [Internext Engineering Solutions Pvt. Ltd., Hyderabad, India](https://www.linkedin.com/company/internexteng/) (July 2020 - Sept 2020)
 
 ### Areas of Interest
 - Machine Learning, Artificial Intelligence, Software Engineering
