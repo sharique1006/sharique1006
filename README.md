@@ -16,7 +16,7 @@
 ### Internships
 - 💻 Applied Scientist Intern at [Amazon, Bangalore, India](https://www.linkedin.com/company/amazon/) (Feb 2022 - June 2022)
 - 💻 Data Scientist Intern at [Piramal Capital Housing & Finance, Mumbai, India](https://www.linkedin.com/company/piramal-capital-&-housing-finance/) (May 2021 - July 2021)
-- 💻 Software Engineer Intern at [Internext Engineering Solutions Pvt. Ltd., Hyderabad, India](https://www.linkedin.com/company/internexteng/) (July 2020 - September 2020)
+- 💻 Software Engineer Intern at [Internext Engineering Solutions Pvt. Ltd., Hyderabad, India](https://www.linkedin.com/company/internexteng/) (July 2020 - Sept 2020)
 
 ### Areas of Interest
 - Machine Learning, Artificial Intelligence, Software Engineering
