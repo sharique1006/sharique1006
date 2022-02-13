@@ -1,7 +1,7 @@
 ### Hi there, I'm Sharique 👋
 
 ### Education
-🎓 Bachelor of Technology, Computer Science & Engineering (2022) - [Indian Institute of Technology, Delhi](https://home.iitd.ac.in)\\
+🎓 Bachelor of Technology, Computer Science & Engineering (2022) - [Indian Institute of Technology, Delhi](https://home.iitd.ac.in)<br/>
 🎓 All India Senior School Certificate Examination, CBSE (2018) - [The Aryan International School, Varanasi](http://thearyaninternationalschool.com/)
 🎓 All India Secondary School Certificate Examination, CBSE (2016) - [Delhi Public School, Varanasi](http://dpsvaranasi.com/)
 
