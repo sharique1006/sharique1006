@@ -18,8 +18,8 @@
 - Data Scientist Intern at [Piramal Capital Housing & Finance, Mumbai, India](https://www.linkedin.com/company/piramal-capital-&-housing-finance/) (May 2021 - July 2021)
 - Software Engineer Intern at [Internext Engineering Solutions Pvt. Ltd., Hyderabad, India](https://www.linkedin.com/company/internexteng/) (July 2020 - Sept 2020) -->
 
-### Areas of Interest
-- Machine Learning, Artificial Intelligence, Software Engineering
+<!-- ### Areas of Interest
+- Machine Learning, Artificial Intelligence, Software Engineering -->
 
 <!-- ### Languages
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" ></code>
