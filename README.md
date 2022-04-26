@@ -1,6 +1,6 @@
 ### Hi there, I'm Sharique 👋
 
-### Education
+<!-- ### Education
 - Bachelor of Technology, Computer Science & Engineering (2022) - [Indian Institute of Technology, Delhi](https://home.iitd.ac.in)
 - All India Senior School Certificate Examination, CBSE (2018) - [The Aryan International School, Varanasi](http://thearyaninternationalschool.com/)
 - All India Secondary School Certificate Examination, CBSE (2016) - [Delhi Public School, Varanasi](http://dpsvaranasi.com/)
@@ -16,7 +16,7 @@
 ### Internships
 - Applied Scientist Intern at [Amazon, Bangalore, India](https://www.linkedin.com/company/amazon/) (Feb 2022 - June 2022)
 - Data Scientist Intern at [Piramal Capital Housing & Finance, Mumbai, India](https://www.linkedin.com/company/piramal-capital-&-housing-finance/) (May 2021 - July 2021)
-- Software Engineer Intern at [Internext Engineering Solutions Pvt. Ltd., Hyderabad, India](https://www.linkedin.com/company/internexteng/) (July 2020 - Sept 2020)
+- Software Engineer Intern at [Internext Engineering Solutions Pvt. Ltd., Hyderabad, India](https://www.linkedin.com/company/internexteng/) (July 2020 - Sept 2020) -->
 
 ### Areas of Interest
 - Machine Learning, Artificial Intelligence, Software Engineering
